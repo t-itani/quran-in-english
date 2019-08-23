@@ -1,8 +1,8 @@
-# Quran in English - An Open Source Translation
+# Quran in English - An Open-Source Translation
 
 ## Quran Translated by Scholars, the Public, and Machine Intelligence
 
-A collaborative effort producing an outstanding [English translation of the Quran](https://www.helloquran.com). An open source project, enabling any individual to contribute to this translation.
+A collaborative effort producing an outstanding [English translation of the Quran](https://www.helloquran.com). An open-source project, enabling any individual to contribute to this translation.
 
 The English language is constantly evolving and changing. Thus, a good translation must evolve and change accordingly.
 
@@ -24,13 +24,13 @@ The translation, as much as possible, is free of personal interpretations.
 
 All of us working together cannot produce the likes of the Quran. Yet we are achieving one great translation.
 
->*[17:88] Say, “If humankind and jinn banded together to produce the like of this Quran, they could never produce the like of it, even if they supported one another.”*
+>*[Quran 17:88] Say, “If humankind and jinn banded together to produce the like of this Quran, they could never produce the like of it, even if they supported one another.”*
 
 The Quran is the word of God, revealed to the Prophet Muhammad, for the benefit of the human being. The Quran contains guidance, healing, and mercy. The Quran is wise, clear, and truthful. The Quran is beyond doubt from the Lord of the Universe.
 
->*[10:37] This Quran could not have been produced by anyone other than God. In fact, it is a confirmation of what preceded it, and an elaboration of the Book. There is no doubt about it—it is from the Lord of the Universe.*
+>*[Quran 10:37] This Quran could not have been produced by anyone other than God. In fact, it is a confirmation of what preceded it, and an elaboration of the Book. There is no doubt about it—it is from the Lord of the Universe.*
 
-**This translation is always:**
+**The translation is always:**
 
 * Highly accurate
 * Clear
