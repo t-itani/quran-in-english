@@ -1,1 +1,3 @@
+# TODO: remove .gitignore and relay on ./configuration/.gitignore
 temporary
+distribution
