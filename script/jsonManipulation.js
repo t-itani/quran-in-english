@@ -16,16 +16,17 @@ export async function modify({
   let jsonArray = require(jsonPath)
   // modify content
   let data = jsonArray.map(item => {
-    item.transliteration = ''
-    // item.transliteration = item.nameTrans
-    delete item.nameTrans
-    item.name = ''
-    // item.name = item.nameEnglish
-    delete item.nameEnglish
-    // item.name = item.nameArabic
-    delete item.nameArabic
+    // item.transliteration = ''
+    // // item.transliteration = item.nameTrans
+    // delete item.nameTrans
+    // item.name = ''
+    // // item.name = item.nameEnglish
+    // delete item.nameEnglish
+    // // item.name = item.nameArabic
+    // delete item.nameArabic
     return item
   })
+  // .sort((former, latter) => former.order - latter.order)
 
   await filesystem.writeFile(exportPath, data |> JSON.stringify, { encoding: 'utf8', flag: 'w' /*tructace file if exists and create a new one*/ })
 
