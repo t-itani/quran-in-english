@@ -3,7 +3,7 @@
 	"main": "./entrypoint/programmaticAPI",
 	"version": "1.0.0",
 	"scripts": {
-		"jsonManipulation": "yarn run scriptManager shouldCompileScript=true ./jsonManipulation \".modify({ jsonPath: './resource/original.json', exportPath: './resource/modified.json' })\""
+		"jsonManipulation": "yarn run scriptManager shouldCompileScript=true ./jsonManipulation \".modify({ jsonPath: './resource/quran-info.json', exportPath: './temporary/modified.json' })\""
 	},
 	"dependencies": {},
 	"devDependencies": {

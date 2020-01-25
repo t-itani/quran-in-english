@@ -1,6 +1,7 @@
 import { promises as filesystem, existsSync, mkdirSync } from 'fs'
 import path from 'path'
 
+// Bulk json madification
 export async function modify({
   api, // @deployment/scriptManager instance, allowing access to project's configs.
   jsonPath, // relative path to json file.
@@ -15,20 +16,30 @@ export async function modify({
 
   let jsonArray = require(jsonPath)
   // modify content
-  let data = jsonArray.map(item => {
-    // item.transliteration = ''
-    // // item.transliteration = item.nameTrans
-    // delete item.nameTrans
-    // item.name = ''
-    // // item.name = item.nameEnglish
-    // delete item.nameEnglish
-    // // item.name = item.nameArabic
-    // delete item.nameArabic
-    return item
-  })
+  let data = jsonArray.map(m2)
   // .sort((former, latter) => former.order - latter.order)
 
   await filesystem.writeFile(exportPath, data |> JSON.stringify, { encoding: 'utf8', flag: 'w' /*tructace file if exists and create a new one*/ })
 
   console.log(`• Created json file - ${exportPath}`)
+}
+
+function m1(item) {
+  item.transliteration = ''
+  // item.transliteration = item.nameTrans
+  delete item.nameTrans
+  item.name = ''
+  // item.name = item.nameEnglish
+  delete item.nameEnglish
+  // item.name = item.nameArabic
+  delete item.nameArabic
+  return item
+}
+
+function m2(item) {
+  item.chapterNumber = 0
+  delete item.nameTrans
+  delete item.nameEnglish
+  delete item.nameArabic
+  return item
 }
