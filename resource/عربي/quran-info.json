@@ -1,0 +1,343 @@
+[{
+  "nVerses": 7,
+  "name": "الفاتحة"
+}, {
+  "nVerses": 286,
+  "name": "البقرة"
+}, {
+  "nVerses": 200,
+  "name": "آل عمران"
+}, {
+  "nVerses": 176,
+  "name": "النساء"
+}, {
+  "nVerses": 120,
+  "name": "المائدة"
+}, {
+  "nVerses": 165,
+  "name": "الأنعام"
+}, {
+  "nVerses": 206,
+  "name": "الأعراف"
+}, {
+  "nVerses": 75,
+  "name": "الأنفال"
+}, {
+  "nVerses": 129,
+  "name": "التوبة"
+}, {
+  "nVerses": 109,
+  "name": "يونس"
+}, {
+  "nVerses": 123,
+  "name": "هود"
+}, {
+  "nVerses": 111,
+  "name": "يوسف"
+}, {
+  "nVerses": 43,
+  "name": "الرعد"
+}, {
+  "nVerses": 52,
+  "name": "إبراهيم"
+}, {
+  "nVerses": 99,
+  "name": "الحجر"
+}, {
+  "nVerses": 128,
+  "name": "النحل"
+}, {
+  "nVerses": 111,
+  "name": "بني إسرائيل"
+}, {
+  "nVerses": 110,
+  "name": "الكهف"
+}, {
+  "nVerses": 98,
+  "name": "مريم"
+}, {
+  "nVerses": 135,
+  "name": "طه"
+}, {
+  "nVerses": 112,
+  "name": "الأنبياء"
+}, {
+  "nVerses": 78,
+  "name": "الحج"
+}, {
+  "nVerses": 118,
+  "name": "المؤمنون"
+}, {
+  "nVerses": 64,
+  "name": "النور"
+}, {
+  "nVerses": 77,
+  "name": "الفرقان"
+}, {
+  "nVerses": 227,
+  "name": "الشعراء"
+}, {
+  "nVerses": 93,
+  "name": "النمل"
+}, {
+  "nVerses": 88,
+  "name": "القصص"
+}, {
+  "nVerses": 69,
+  "name": "العنكبوت"
+}, {
+  "nVerses": 60,
+  "name": "الروم"
+}, {
+  "nVerses": 34,
+  "name": "لقمان"
+}, {
+  "nVerses": 30,
+  "name": "السجدة"
+}, {
+  "nVerses": 73,
+  "name": "الأحزاب"
+}, {
+  "nVerses": 54,
+  "name": "سبإ"
+}, {
+  "nVerses": 45,
+  "name": "فاطر"
+}, {
+  "nVerses": 83,
+  "name": "يس"
+}, {
+  "nVerses": 182,
+  "name": "الصافات"
+}, {
+  "nVerses": 88,
+  "name": "ص"
+}, {
+  "nVerses": 75,
+  "name": "الزمر"
+}, {
+  "nVerses": 85,
+  "name": "غافر"
+}, {
+  "nVerses": 54,
+  "name": "فصلت"
+}, {
+  "nVerses": 53,
+  "name": "الشورى"
+}, {
+  "nVerses": 89,
+  "name": "الزخرف"
+}, {
+  "nVerses": 59,
+  "name": "الدخان"
+}, {
+  "nVerses": 37,
+  "name": "الجاثية"
+}, {
+  "nVerses": 35,
+  "name": "الأحقاف"
+}, {
+  "nVerses": 38,
+  "name": "محمـد"
+}, {
+  "nVerses": 29,
+  "name": "الفتح"
+}, {
+  "nVerses": 18,
+  "name": "الحـجـرات"
+}, {
+  "nVerses": 45,
+  "name": "ق"
+}, {
+  "nVerses": 60,
+  "name": "الذاريات"
+}, {
+  "nVerses": 49,
+  "name": "الـطور"
+}, {
+  "nVerses": 62,
+  "name": "الـنجـم"
+}, {
+  "nVerses": 55,
+  "name": "الـقمـر"
+}, {
+  "nVerses": 78,
+  "name": "الـرحـمـن"
+}, {
+  "nVerses": 96,
+  "name": "الواقعـة"
+}, {
+  "nVerses": 29,
+  "name": "الحـديد"
+}, {
+  "nVerses": 22,
+  "name": "الـمجادلـة"
+}, {
+  "nVerses": 24,
+  "name": "الـحـشـر"
+}, {
+  "nVerses": 13,
+  "name": "الـمـمـتـحنة"
+}, {
+  "nVerses": 14,
+  "name": "الـصـف"
+}, {
+  "nVerses": 11,
+  "name": "الـجـمـعـة"
+}, {
+  "nVerses": 11,
+  "name": "الـمنافقون"
+}, {
+  "nVerses": 18,
+  "name": "الـتغابن"
+}, {
+  "nVerses": 12,
+  "name": "الـطلاق"
+}, {
+  "nVerses": 12,
+  "name": "الـتحريم"
+}, {
+  "nVerses": 30,
+  "name": "الـملك"
+}, {
+  "nVerses": 52,
+  "name": "الـقـلـم"
+}, {
+  "nVerses": 52,
+  "name": "الـحاقـة"
+}, {
+  "nVerses": 44,
+  "name": "الـمعارج"
+}, {
+  "nVerses": 28,
+  "name": "نوح"
+}, {
+  "nVerses": 28,
+  "name": "الجن"
+}, {
+  "nVerses": 20,
+  "name": "الـمـزمـل"
+}, {
+  "nVerses": 56,
+  "name": "الـمـدثـر"
+}, {
+  "nVerses": 40,
+  "name": "الـقـيامـة"
+}, {
+  "nVerses": 31,
+  "name": "الإنسان"
+}, {
+  "nVerses": 50,
+  "name": "الـمرسلات"
+}, {
+  "nVerses": 40,
+  "name": "الـنبإ"
+}, {
+  "nVerses": 46,
+  "name": "الـنازعات"
+}, {
+  "nVerses": 42,
+  "name": "عبس"
+}, {
+  "nVerses": 29,
+  "name": "التكوير"
+}, {
+  "nVerses": 19,
+  "name": "الانفطار"
+}, {
+  "nVerses": 36,
+  "name": "المطـفـفين"
+}, {
+  "nVerses": 25,
+  "name": "الانشقاق"
+}, {
+  "nVerses": 22,
+  "name": "البروج"
+}, {
+  "nVerses": 17,
+  "name": "الـطارق"
+}, {
+  "nVerses": 19,
+  "name": "الأعـلى"
+}, {
+  "nVerses": 26,
+  "name": "الغاشـيـة"
+}, {
+  "nVerses": 30,
+  "name": "الفجر"
+}, {
+  "nVerses": 20,
+  "name": "الـبلد"
+}, {
+  "nVerses": 15,
+  "name": "الـشـمـس"
+}, {
+  "nVerses": 21,
+  "name": "اللـيـل"
+}, {
+  "nVerses": 11,
+  "name": "الضـحى"
+}, {
+  "nVerses": 8,
+  "name": "الـشرح"
+}, {
+  "nVerses": 8,
+  "name": "الـتين"
+}, {
+  "nVerses": 19,
+  "name": "الـعلق"
+}, {
+  "nVerses": 5,
+  "name": "الـقدر"
+}, {
+  "nVerses": 8,
+  "name": "الـبينة"
+}, {
+  "nVerses": 8,
+  "name": "الـزلزلة"
+}, {
+  "nVerses": 11,
+  "name": "الـعاديات"
+}, {
+  "nVerses": 11,
+  "name": "الـقارعـة"
+}, {
+  "nVerses": 8,
+  "name": "الـتكاثر"
+}, {
+  "nVerses": 3,
+  "name": "الـعصر"
+}, {
+  "nVerses": 9,
+  "name": "الـهمزة"
+}, {
+  "nVerses": 5,
+  "name": "الـفيل"
+}, {
+  "nVerses": 4,
+  "name": "قريش"
+}, {
+  "nVerses": 7,
+  "name": "المـاعون"
+}, {
+  "nVerses": 3,
+  "name": "الـكوثر"
+}, {
+  "nVerses": 6,
+  "name": "الـكافرون"
+}, {
+  "nVerses": 3,
+  "name": "الـنصر"
+}, {
+  "nVerses": 5,
+  "name": "الـمسد"
+}, {
+  "nVerses": 4,
+  "name": "الإخلاص"
+}, {
+  "nVerses": 5,
+  "name": "الـفلق"
+}, {
+  "nVerses": 6,
+  "name": "الـناس"
+}]

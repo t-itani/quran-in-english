@@ -1,4 +1,4 @@
-export {
-  Arabic: {}, 
-  English: {}
-}  
+export const text = {
+  Arabic: {},
+  English: {},
+}

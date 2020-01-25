@@ -1,686 +1,457 @@
-[
-  {
-    "nVerses": 7,
-    "name": "The Opening",
-    "Transliteration": "al-Fatihah",
-    "name": "الفاتحة"
-  },
-  {
-    "nVerses": 286,
-    "name": "The Heifer",
-    "Transliteration": "al-Baqarah",
-    "name": "البقرة"
-  },
-  {
-    "nVerses": 200,
-    "name": "Family of Imran",
-    "Transliteration": "Aali 'Imran",
-    "name": "آل عمران"
-  },
-  {
-    "nVerses": 176,
-    "name": "Women",
-    "Transliteration": "an-Nisa'",
-    "name": "النساء"
-  },
-  {
-    "nVerses": 120,
-    "name": "The Table",
-    "Transliteration": "al-Ma'idah",
-    "name": "المائدة"
-  },
-  {
-    "nVerses": 165,
-    "name": "Livestock",
-    "Transliteration": "al-An'am",
-    "name": "الأنعام"
-  },
-  {
-    "nVerses": 206,
-    "name": "The Elevations",
-    "Transliteration": "al-A'raf",
-    "name": "الأعراف"
-  },
-  {
-    "nVerses": 75,
-    "name": "The Spoils",
-    "Transliteration": "al-Anfal",
-    "name": "الأنفال"
-  },
-  {
-    "nVerses": 129,
-    "name": "Repentance",
-    "Transliteration": "at-Tawbah",
-    "name": "التوبة"
-  },
-  {
-    "nVerses": 109,
-    "name": "Jonah",
-    "Transliteration": "Yunus",
-    "name": "يونس"
-  },
-  {
-    "nVerses": 123,
-    "name": "Hud",
-    "Transliteration": "Hud",
-    "name": "هود"
-  },
-  {
-    "nVerses": 111,
-    "name": "Joseph",
-    "Transliteration": "Yusuf",
-    "name": "يوسف"
-  },
-  {
-    "nVerses": 43,
-    "name": "Thunder",
-    "Transliteration": "ar-Ra'd",
-    "name": "الرعد"
-  },
-  {
-    "nVerses": 52,
-    "name": "Abraham",
-    "Transliteration": "Ibrahim",
-    "name": "إبراهيم"
-  },
-  {
-    "nVerses": 99,
-    "name": "The Rock",
-    "Transliteration": "al-Hijr",
-    "name": "الحجر"
-  },
-  {
-    "nVerses": 128,
-    "name": "The Bee",
-    "Transliteration": "an-Nahl",
-    "name": "النحل"
-  },
-  {
-    "nVerses": 111,
-    "name": "Children of Israel",
-    "Transliteration": "Bani Israeel",
-    "name": "بني إسرائيل"
-  },
-  {
-    "nVerses": 110,
-    "name": "The Cave",
-    "Transliteration": "al-Kahf",
-    "name": "الكهف"
-  },
-  {
-    "nVerses": 98,
-    "name": "Mary",
-    "Transliteration": "Maryam",
-    "name": "مريم"
-  },
-  {
-    "nVerses": 135,
-    "name": "Ta-Ha",
-    "Transliteration": "Ta-Ha",
-    "name": "طه"
-  },
-  {
-    "nVerses": 112,
-    "name": "The Prophets",
-    "Transliteration": "al-Anbiya",
-    "name": "الأنبياء"
-  },
-  {
-    "nVerses": 78,
-    "name": "The Pilgrimage",
-    "Transliteration": "al-Hajj",
-    "name": "الحج"
-  },
-  {
-    "nVerses": 118,
-    "name": "The Believers",
-    "Transliteration": "al-Mu'minun",
-    "name": "المؤمنون"
-  },
-  {
-    "nVerses": 64,
-    "name": "The Light",
-    "Transliteration": "an-Nur",
-    "name": "النور"
-  },
-  {
-    "nVerses": 77,
-    "name": "The Criterion",
-    "Transliteration": "al-Furqan",
-    "name": "الفرقان"
-  },
-  {
-    "nVerses": 227,
-    "name": "The Poets",
-    "Transliteration": "ash-Shu'ara'",
-    "name": "الشعراء"
-  },
-  {
-    "nVerses": 93,
-    "name": "The Ant",
-    "Transliteration": "an-Naml",
-    "name": "النمل"
-  },
-  {
-    "nVerses": 88,
-    "name": "History",
-    "Transliteration": "al-Qasas",
-    "name": "القصص"
-  },
-  {
-    "nVerses": 69,
-    "name": "The Spider",
-    "Transliteration": "al-'Ankabut",
-    "name": "العنكبوت"
-  },
-  {
-    "nVerses": 60,
-    "name": "The Romans",
-    "Transliteration": "ar-Rum",
-    "name": "الروم"
-  },
-  {
-    "nVerses": 34,
-    "name": "Luqman",
-    "Transliteration": "Luqman",
-    "name": "لقمان"
-  },
-  {
-    "nVerses": 30,
-    "name": "Prostration",
-    "Transliteration": "as-Sajdah",
-    "name": "السجدة"
-  },
-  {
-    "nVerses": 73,
-    "name": "The Confederates",
-    "Transliteration": "al-Ahzab",
-    "name": "الأحزاب"
-  },
-  {
-    "nVerses": 54,
-    "name": "Sheba",
-    "Transliteration": "Saba'",
-    "name": "سبإ"
-  },
-  {
-    "nVerses": 45,
-    "name": "Originator",
-    "Transliteration": "Fatir",
-    "name": "فاطر"
-  },
-  {
-    "nVerses": 83,
-    "name": "Ya-Seen",
-    "Transliteration": "Ya-Seen",
-    "name": "يس"
-  },
-  {
-    "nVerses": 182,
-    "name": "The Aligners",
-    "Transliteration": "as-Saffat",
-    "name": "الصافات"
-  },
-  {
-    "nVerses": 88,
-    "name": "Saad",
-    "Transliteration": "Saad",
-    "name": "ص"
-  },
-  {
-    "nVerses": 75,
-    "name": "The Crowds",
-    "Transliteration": "az-Zumar",
-    "name": "الزمر"
-  },
-  {
-    "nVerses": 85,
-    "name": "Forgiver",
-    "Transliteration": "Ghafir",
-    "name": "غافر"
-  },
-  {
-    "nVerses": 54,
-    "name": "Detailed",
-    "Transliteration": "Fussilat",
-    "name": "فصلت"
-  },
-  {
-    "nVerses": 53,
-    "name": "Consultation",
-    "Transliteration": "ash-Shura",
-    "name": "الشورى"
-  },
-  {
-    "nVerses": 89,
-    "name": "Decorations",
-    "Transliteration": "az-Zukhruf",
-    "name": "الزخرف"
-  },
-  {
-    "nVerses": 59,
-    "name": "Smoke",
-    "Transliteration": "ad-Dukhan",
-    "name": "الدخان"
-  },
-  {
-    "nVerses": 37,
-    "name": "Kneeling",
-    "Transliteration": "al-Jathiyah",
-    "name": "الجاثية"
-  },
-  {
-    "nVerses": 35,
-    "name": "The Dunes",
-    "Transliteration": "al-Ahqaf",
-    "name": "الأحقاف"
-  },
-  {
-    "nVerses": 38,
-    "name": "Muhammad",
-    "Transliteration": "Muhammad",
-    "name": "محمـد"
-  },
-  {
-    "nVerses": 29,
-    "name": "Victory",
-    "Transliteration": "al-Fath",
-    "name": "الفتح"
-  },
-  {
-    "nVerses": 18,
-    "name": "The Chambers",
-    "Transliteration": "al-Hujurat",
-    "name": "الحـجـرات"
-  },
-  {
-    "nVerses": 45,
-    "name": "Qaf",
-    "Transliteration": "Qaf",
-    "name": "ق"
-  },
-  {
-    "nVerses": 60,
-    "name": "The Spreaders",
-    "Transliteration": "adh-Dhariyat",
-    "name": "الذاريات"
-  },
-  {
-    "nVerses": 49,
-    "name": "The Mount",
-    "Transliteration": "at-Tur",
-    "name": "الـطور"
-  },
-  {
-    "nVerses": 62,
-    "name": "The Star",
-    "Transliteration": "an-Najm",
-    "name": "الـنجـم"
-  },
-  {
-    "nVerses": 55,
-    "name": "The Moon",
-    "Transliteration": "al-Qamar",
-    "name": "الـقمـر"
-  },
-  {
-    "nVerses": 78,
-    "name": "The Compassionate",
-    "Transliteration": "ar-Rahman",
-    "name": "الـرحـمـن"
-  },
-  {
-    "nVerses": 96,
-    "name": "The Inevitable",
-    "Transliteration": "al-Waqi'ah",
-    "name": "الواقعـة"
-  },
-  {
-    "nVerses": 29,
-    "name": "Iron",
-    "Transliteration": "al-Hadid`",
-    "name": "الحـديد"
-  },
-  {
-    "nVerses": 22,
-    "name": "The Argument",
-    "Transliteration": "al-Mujadilah",
-    "name": "الـمجادلـة"
-  },
-  {
-    "nVerses": 24,
-    "name": "The Mobilization",
-    "Transliteration": "al-Hashr",
-    "name": "الـحـشـر"
-  },
-  {
-    "nVerses": 13,
-    "name": "She who is Tested",
-    "Transliteration": "al-Mumtahina",
-    "name": "الـمـمـتـحنة"
-  },
-  {
-    "nVerses": 14,
-    "name": "Column",
-    "Transliteration": "as-Saff",
-    "name": "الـصـف"
-  },
-  {
-    "nVerses": 11,
-    "name": "Friday",
-    "Transliteration": "al-Jumu'ah",
-    "name": "الـجـمـعـة"
-  },
-  {
-    "nVerses": 11,
-    "name": "The Hypocrites",
-    "Transliteration": "al-Munafiqun",
-    "name": "الـمنافقون"
-  },
-  {
-    "nVerses": 18,
-    "name": "Gathering",
-    "Transliteration": "at-Taghabun",
-    "name": "الـتغابن"
-  },
-  {
-    "nVerses": 12,
-    "name": "Divorce",
-    "Transliteration": "at-Talaq",
-    "name": "الـطلاق"
-  },
-  {
-    "nVerses": 12,
-    "name": "Prohibition",
-    "Transliteration": "at-Tahrim",
-    "name": "الـتحريم"
-  },
-  {
-    "nVerses": 30,
-    "name": "Sovereignty",
-    "Transliteration": "al-Mulk",
-    "name": "الـملك"
-  },
-  {
-    "nVerses": 52,
-    "name": "The Pen",
-    "Transliteration": "al-Qalam",
-    "name": "الـقـلـم"
-  },
-  {
-    "nVerses": 52,
-    "name": "The Reality",
-    "Transliteration": "al-Haqqah",
-    "name": "الـحاقـة"
-  },
-  {
-    "nVerses": 44,
-    "name": "Ways of Ascent",
-    "Transliteration": "al-Ma'arij",
-    "name": "الـمعارج"
-  },
-  {
-    "nVerses": 28,
-    "name": "Noah",
-    "Transliteration": "Nuh",
-    "name": "نوح"
-  },
-  {
-    "nVerses": 28,
-    "name": "The Jinn",
-    "Transliteration": "al-Jinn",
-    "name": "الجن"
-  },
-  {
-    "nVerses": 20,
-    "name": "The Enwrapped",
-    "Transliteration": "al-Muzzammil",
-    "name": "الـمـزمـل"
-  },
-  {
-    "nVerses": 56,
-    "name": "The Enrobed",
-    "Transliteration": "al-Muddathir",
-    "name": "الـمـدثـر"
-  },
-  {
-    "nVerses": 40,
-    "name": "Resurrection",
-    "Transliteration": "al-Qiyamah",
-    "name": "الـقـيامـة"
-  },
-  {
-    "nVerses": 31,
-    "name": "Man",
-    "Transliteration": "al-Insan",
-    "name": "الإنسان"
-  },
-  {
-    "nVerses": 50,
-    "name": "The Unleashed",
-    "Transliteration": "al-Mursalat",
-    "name": "الـمرسلات"
-  },
-  {
-    "nVerses": 40,
-    "name": "The Event",
-    "Transliteration": "an-Naba'",
-    "name": "الـنبإ"
-  },
-  {
-    "nVerses": 46,
-    "name": "The Snatchers",
-    "Transliteration": "an-Nazi'at",
-    "name": "الـنازعات"
-  },
-  {
-    "nVerses": 42,
-    "name": "He Frowned",
-    "Transliteration": "'Abasa",
-    "name": "عبس"
-  },
-  {
-    "nVerses": 29,
-    "name": "The Rolling",
-    "Transliteration": "at-Takwir",
-    "name": "التكوير"
-  },
-  {
-    "nVerses": 19,
-    "name": "The Shattering",
-    "Transliteration": "al-Infitar",
-    "name": "الانفطار"
-  },
-  {
-    "nVerses": 36,
-    "name": "The Defrauders",
-    "Transliteration": "al-Mutaffifin",
-    "name": "المطـفـفين"
-  },
-  {
-    "nVerses": 25,
-    "name": "The Rupture",
-    "Transliteration": "al-Inshiqaq",
-    "name": "الانشقاق"
-  },
-  {
-    "nVerses": 22,
-    "name": "The Constellations",
-    "Transliteration": "al-Buruj",
-    "name": "البروج"
-  },
-  {
-    "nVerses": 17,
-    "name": "The Pulsar",
-    "Transliteration": "at-Tariq",
-    "name": "الـطارق"
-  },
-  {
-    "nVerses": 19,
-    "name": "The Most High",
-    "Transliteration": "al-A'la",
-    "name": "الأعـلى"
-  },
-  {
-    "nVerses": 26,
-    "name": "The Overwhelming",
-    "Transliteration": "al-Ghashiyah",
-    "name": "الغاشـيـة"
-  },
-  {
-    "nVerses": 30,
-    "name": "The Dawn",
-    "Transliteration": "al-Fajr",
-    "name": "الفجر"
-  },
-  {
-    "nVerses": 20,
-    "name": "The Land",
-    "Transliteration": "al-Balad",
-    "name": "الـبلد"
-  },
-  {
-    "nVerses": 15,
-    "name": "The Sun",
-    "Transliteration": "ash-Shams",
-    "name": "الـشـمـس"
-  },
-  {
-    "nVerses": 21,
-    "name": "The Night",
-    "Transliteration": "al-Layl",
-    "name": "اللـيـل"
-  },
-  {
-    "nVerses": 11,
-    "name": "Morning Brighness",
-    "Transliteration": "adh-Duha",
-    "name": "الضـحى"
-  },
-  {
-    "nVerses": 8,
-    "name": "The Soothing",
-    "Transliteration": "ash-Sharh",
-    "name": "الـشرح"
-  },
-  {
-    "nVerses": 8,
-    "name": "The Fig",
-    "Transliteration": "at-Tin",
-    "name": "الـتين"
-  },
-  {
-    "nVerses": 19,
-    "name": "Clot",
-    "Transliteration": "al-'Alaq",
-    "name": "الـعلق"
-  },
-  {
-    "nVerses": 5,
-    "name": "Destiny",
-    "Transliteration": "al-Qadr",
-    "name": "الـقدر"
-  },
-  {
-    "nVerses": 8,
-    "name": "Clear Evidence",
-    "Transliteration": "al-Bayyinah",
-    "name": "الـبينة"
-  },
-  {
-    "nVerses": 8,
-    "name": "The Quake",
-    "Transliteration": "az-Zalzalah",
-    "name": "الـزلزلة"
-  },
-  {
-    "nVerses": 11,
-    "name": "The Racers",
-    "Transliteration": "al-'Adiyat",
-    "name": "الـعاديات"
-  },
-  {
-    "nVerses": 11,
-    "name": "The Shocker",
-    "Transliteration": "al-Qari'ah",
-    "name": "الـقارعـة"
-  },
-  {
-    "nVerses": 8,
-    "name": "Abundance",
-    "Transliteration": "at-Takathur",
-    "name": "الـتكاثر"
-  },
-  {
-    "nVerses": 3,
-    "name": "Time",
-    "Transliteration": "al-'Asr",
-    "name": "الـعصر"
-  },
-  {
-    "nVerses": 9,
-    "name": "The Backbiter",
-    "Transliteration": "al-Humazah",
-    "name": "الـهمزة"
-  },
-  {
-    "nVerses": 5,
-    "name": "The Elephant",
-    "Transliteration": "al-Fil",
-    "name": "الـفيل"
-  },
-  {
-    "nVerses": 4,
-    "name": "Quraish",
-    "Transliteration": "Quraysh",
-    "name": "قريش"
-  },
-  {
-    "nVerses": 7,
-    "name": "Assistance",
-    "Transliteration": "al-Ma'un",
-    "name": "المـاعون"
-  },
-  {
-    "nVerses": 3,
-    "name": "Plenty",
-    "Transliteration": "al-Kawthar",
-    "name": "الـكوثر"
-  },
-  {
-    "nVerses": 6,
-    "name": "The Disbelievers",
-    "Transliteration": "al-Kafirun",
-    "name": "الـكافرون"
-  },
-  {
-    "nVerses": 3,
-    "name": "Victory",
-    "Transliteration": "an-Nasr",
-    "name": "الـنصر"
-  },
-  {
-    "nVerses": 5,
-    "name": "Thorns",
-    "Transliteration": "al-Masad ",
-    "name": "الـمسد"
-  },
-  {
-    "nVerses": 4,
-    "name": "Sincerity",
-    "Transliteration": "al-Ikhlas",
-    "name": "الإخلاص"
-  },
-  {
-    "nVerses": 5,
-    "name": "Daybreak",
-    "Transliteration": "al-Falaq",
-    "name": "الـفلق"
-  },
-  {
-    "nVerses": 6,
-    "name": "Humankind",
-    "Transliteration": "an-Nas",
-    "name": "الـناس"
-  }
-]
+[{
+  "nVerses": 7,
+  "transliteration": "al-Fatihah",
+  "name": "The Opening"
+}, {
+  "nVerses": 286,
+  "transliteration": "al-Baqarah",
+  "name": "The Heifer"
+}, {
+  "nVerses": 200,
+  "transliteration": "Aali 'Imran",
+  "name": "Family of Imran"
+}, {
+  "nVerses": 176,
+  "transliteration": "an-Nisa'",
+  "name": "Women"
+}, {
+  "nVerses": 120,
+  "transliteration": "al-Ma'idah",
+  "name": "The Table"
+}, {
+  "nVerses": 165,
+  "transliteration": "al-An'am",
+  "name": "Livestock"
+}, {
+  "nVerses": 206,
+  "transliteration": "al-A'raf",
+  "name": "The Elevations"
+}, {
+  "nVerses": 75,
+  "transliteration": "al-Anfal",
+  "name": "The Spoils"
+}, {
+  "nVerses": 129,
+  "transliteration": "at-Tawbah",
+  "name": "Repentance"
+}, {
+  "nVerses": 109,
+  "transliteration": "Yunus",
+  "name": "Jonah"
+}, {
+  "nVerses": 123,
+  "transliteration": "Hud",
+  "name": "Hud"
+}, {
+  "nVerses": 111,
+  "transliteration": "Yusuf",
+  "name": "Joseph"
+}, {
+  "nVerses": 43,
+  "transliteration": "ar-Ra'd",
+  "name": "Thunder"
+}, {
+  "nVerses": 52,
+  "transliteration": "Ibrahim",
+  "name": "Abraham"
+}, {
+  "nVerses": 99,
+  "transliteration": "al-Hijr",
+  "name": "The Rock"
+}, {
+  "nVerses": 128,
+  "transliteration": "an-Nahl",
+  "name": "The Bee"
+}, {
+  "nVerses": 111,
+  "transliteration": "Bani Israeel",
+  "name": "Children of Israel"
+}, {
+  "nVerses": 110,
+  "transliteration": "al-Kahf",
+  "name": "The Cave"
+}, {
+  "nVerses": 98,
+  "transliteration": "Maryam",
+  "name": "Mary"
+}, {
+  "nVerses": 135,
+  "transliteration": "Ta-Ha",
+  "name": "Ta-Ha"
+}, {
+  "nVerses": 112,
+  "transliteration": "al-Anbiya",
+  "name": "The Prophets"
+}, {
+  "nVerses": 78,
+  "transliteration": "al-Hajj",
+  "name": "The Pilgrimage"
+}, {
+  "nVerses": 118,
+  "transliteration": "al-Mu'minun",
+  "name": "The Believers"
+}, {
+  "nVerses": 64,
+  "transliteration": "an-Nur",
+  "name": "The Light"
+}, {
+  "nVerses": 77,
+  "transliteration": "al-Furqan",
+  "name": "The Criterion"
+}, {
+  "nVerses": 227,
+  "transliteration": "ash-Shu'ara'",
+  "name": "The Poets"
+}, {
+  "nVerses": 93,
+  "transliteration": "an-Naml",
+  "name": "The Ant"
+}, {
+  "nVerses": 88,
+  "transliteration": "al-Qasas",
+  "name": "History"
+}, {
+  "nVerses": 69,
+  "transliteration": "al-'Ankabut",
+  "name": "The Spider"
+}, {
+  "nVerses": 60,
+  "transliteration": "ar-Rum",
+  "name": "The Romans"
+}, {
+  "nVerses": 34,
+  "transliteration": "Luqman",
+  "name": "Luqman"
+}, {
+  "nVerses": 30,
+  "transliteration": "as-Sajdah",
+  "name": "Prostration"
+}, {
+  "nVerses": 73,
+  "transliteration": "al-Ahzab",
+  "name": "The Confederates"
+}, {
+  "nVerses": 54,
+  "transliteration": "Saba'",
+  "name": "Sheba"
+}, {
+  "nVerses": 45,
+  "transliteration": "Fatir",
+  "name": "Originator"
+}, {
+  "nVerses": 83,
+  "transliteration": "Ya-Seen",
+  "name": "Ya-Seen"
+}, {
+  "nVerses": 182,
+  "transliteration": "as-Saffat",
+  "name": "The Aligners"
+}, {
+  "nVerses": 88,
+  "transliteration": "Saad",
+  "name": "Saad"
+}, {
+  "nVerses": 75,
+  "transliteration": "az-Zumar",
+  "name": "The Crowds"
+}, {
+  "nVerses": 85,
+  "transliteration": "Ghafir",
+  "name": "Forgiver"
+}, {
+  "nVerses": 54,
+  "transliteration": "Fussilat",
+  "name": "Detailed"
+}, {
+  "nVerses": 53,
+  "transliteration": "ash-Shura",
+  "name": "Consultation"
+}, {
+  "nVerses": 89,
+  "transliteration": "az-Zukhruf",
+  "name": "Decorations"
+}, {
+  "nVerses": 59,
+  "transliteration": "ad-Dukhan",
+  "name": "Smoke"
+}, {
+  "nVerses": 37,
+  "transliteration": "al-Jathiyah",
+  "name": "Kneeling"
+}, {
+  "nVerses": 35,
+  "transliteration": "al-Ahqaf",
+  "name": "The Dunes"
+}, {
+  "nVerses": 38,
+  "transliteration": "Muhammad",
+  "name": "Muhammad"
+}, {
+  "nVerses": 29,
+  "transliteration": "al-Fath",
+  "name": "Victory"
+}, {
+  "nVerses": 18,
+  "transliteration": "al-Hujurat",
+  "name": "The Chambers"
+}, {
+  "nVerses": 45,
+  "transliteration": "Qaf",
+  "name": "Qaf"
+}, {
+  "nVerses": 60,
+  "transliteration": "adh-Dhariyat",
+  "name": "The Spreaders"
+}, {
+  "nVerses": 49,
+  "transliteration": "at-Tur",
+  "name": "The Mount"
+}, {
+  "nVerses": 62,
+  "transliteration": "an-Najm",
+  "name": "The Star"
+}, {
+  "nVerses": 55,
+  "transliteration": "al-Qamar",
+  "name": "The Moon"
+}, {
+  "nVerses": 78,
+  "transliteration": "ar-Rahman",
+  "name": "The Compassionate"
+}, {
+  "nVerses": 96,
+  "transliteration": "al-Waqi'ah",
+  "name": "The Inevitable"
+}, {
+  "nVerses": 29,
+  "transliteration": "al-Hadid`",
+  "name": "Iron"
+}, {
+  "nVerses": 22,
+  "transliteration": "al-Mujadilah",
+  "name": "The Argument"
+}, {
+  "nVerses": 24,
+  "transliteration": "al-Hashr",
+  "name": "The Mobilization"
+}, {
+  "nVerses": 13,
+  "transliteration": "al-Mumtahina",
+  "name": "She who is Tested"
+}, {
+  "nVerses": 14,
+  "transliteration": "as-Saff",
+  "name": "Column"
+}, {
+  "nVerses": 11,
+  "transliteration": "al-Jumu'ah",
+  "name": "Friday"
+}, {
+  "nVerses": 11,
+  "transliteration": "al-Munafiqun",
+  "name": "The Hypocrites"
+}, {
+  "nVerses": 18,
+  "transliteration": "at-Taghabun",
+  "name": "Gathering"
+}, {
+  "nVerses": 12,
+  "transliteration": "at-Talaq",
+  "name": "Divorce"
+}, {
+  "nVerses": 12,
+  "transliteration": "at-Tahrim",
+  "name": "Prohibition"
+}, {
+  "nVerses": 30,
+  "transliteration": "al-Mulk",
+  "name": "Sovereignty"
+}, {
+  "nVerses": 52,
+  "transliteration": "al-Qalam",
+  "name": "The Pen"
+}, {
+  "nVerses": 52,
+  "transliteration": "al-Haqqah",
+  "name": "The Reality"
+}, {
+  "nVerses": 44,
+  "transliteration": "al-Ma'arij",
+  "name": "Ways of Ascent"
+}, {
+  "nVerses": 28,
+  "transliteration": "Nuh",
+  "name": "Noah"
+}, {
+  "nVerses": 28,
+  "transliteration": "al-Jinn",
+  "name": "The Jinn"
+}, {
+  "nVerses": 20,
+  "transliteration": "al-Muzzammil",
+  "name": "The Enwrapped"
+}, {
+  "nVerses": 56,
+  "transliteration": "al-Muddathir",
+  "name": "The Enrobed"
+}, {
+  "nVerses": 40,
+  "transliteration": "al-Qiyamah",
+  "name": "Resurrection"
+}, {
+  "nVerses": 31,
+  "transliteration": "al-Insan",
+  "name": "Man"
+}, {
+  "nVerses": 50,
+  "transliteration": "al-Mursalat",
+  "name": "The Unleashed"
+}, {
+  "nVerses": 40,
+  "transliteration": "an-Naba'",
+  "name": "The Event"
+}, {
+  "nVerses": 46,
+  "transliteration": "an-Nazi'at",
+  "name": "The Snatchers"
+}, {
+  "nVerses": 42,
+  "transliteration": "'Abasa",
+  "name": "He Frowned"
+}, {
+  "nVerses": 29,
+  "transliteration": "at-Takwir",
+  "name": "The Rolling"
+}, {
+  "nVerses": 19,
+  "transliteration": "al-Infitar",
+  "name": "The Shattering"
+}, {
+  "nVerses": 36,
+  "transliteration": "al-Mutaffifin",
+  "name": "The Defrauders"
+}, {
+  "nVerses": 25,
+  "transliteration": "al-Inshiqaq",
+  "name": "The Rupture"
+}, {
+  "nVerses": 22,
+  "transliteration": "al-Buruj",
+  "name": "The Constellations"
+}, {
+  "nVerses": 17,
+  "transliteration": "at-Tariq",
+  "name": "The Pulsar"
+}, {
+  "nVerses": 19,
+  "transliteration": "al-A'la",
+  "name": "The Most High"
+}, {
+  "nVerses": 26,
+  "transliteration": "al-Ghashiyah",
+  "name": "The Overwhelming"
+}, {
+  "nVerses": 30,
+  "transliteration": "al-Fajr",
+  "name": "The Dawn"
+}, {
+  "nVerses": 20,
+  "transliteration": "al-Balad",
+  "name": "The Land"
+}, {
+  "nVerses": 15,
+  "transliteration": "ash-Shams",
+  "name": "The Sun"
+}, {
+  "nVerses": 21,
+  "transliteration": "al-Layl",
+  "name": "The Night"
+}, {
+  "nVerses": 11,
+  "transliteration": "adh-Duha",
+  "name": "Morning Brighness"
+}, {
+  "nVerses": 8,
+  "transliteration": "ash-Sharh",
+  "name": "The Soothing"
+}, {
+  "nVerses": 8,
+  "transliteration": "at-Tin",
+  "name": "The Fig"
+}, {
+  "nVerses": 19,
+  "transliteration": "al-'Alaq",
+  "name": "Clot"
+}, {
+  "nVerses": 5,
+  "transliteration": "al-Qadr",
+  "name": "Destiny"
+}, {
+  "nVerses": 8,
+  "transliteration": "al-Bayyinah",
+  "name": "Clear Evidence"
+}, {
+  "nVerses": 8,
+  "transliteration": "az-Zalzalah",
+  "name": "The Quake"
+}, {
+  "nVerses": 11,
+  "transliteration": "al-'Adiyat",
+  "name": "The Racers"
+}, {
+  "nVerses": 11,
+  "transliteration": "al-Qari'ah",
+  "name": "The Shocker"
+}, {
+  "nVerses": 8,
+  "transliteration": "at-Takathur",
+  "name": "Abundance"
+}, {
+  "nVerses": 3,
+  "transliteration": "al-'Asr",
+  "name": "Time"
+}, {
+  "nVerses": 9,
+  "transliteration": "al-Humazah",
+  "name": "The Backbiter"
+}, {
+  "nVerses": 5,
+  "transliteration": "al-Fil",
+  "name": "The Elephant"
+}, {
+  "nVerses": 4,
+  "transliteration": "Quraysh",
+  "name": "Quraish"
+}, {
+  "nVerses": 7,
+  "transliteration": "al-Ma'un",
+  "name": "Assistance"
+}, {
+  "nVerses": 3,
+  "transliteration": "al-Kawthar",
+  "name": "Plenty"
+}, {
+  "nVerses": 6,
+  "transliteration": "al-Kafirun",
+  "name": "The Disbelievers"
+}, {
+  "nVerses": 3,
+  "transliteration": "an-Nasr",
+  "name": "Victory"
+}, {
+  "nVerses": 5,
+  "transliteration": "al-Masad ",
+  "name": "Thorns"
+}, {
+  "nVerses": 4,
+  "transliteration": "al-Ikhlas",
+  "name": "Sincerity"
+}, {
+  "nVerses": 5,
+  "transliteration": "al-Falaq",
+  "name": "Daybreak"
+}, {
+  "nVerses": 6,
+  "transliteration": "an-Nas",
+  "name": "Humankind"
+}]
