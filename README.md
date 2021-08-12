@@ -46,6 +46,6 @@ The Quran is the word of God, revealed to the Prophet Muhammad, for the benefit 
 * Same flow as the Arabic flow — when possible
 * In Modern English
 
-The Translation is published at [HelloQuran.com](https://www.helloquran.com)
+[Quran in English](https://www.clearquran.org)
 
 With Arabic text at [CoreQuran.com](https://corequran.com)
